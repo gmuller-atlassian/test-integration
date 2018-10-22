@@ -1,1 +1,5 @@
+<<<<<< HEAD
 file5
+=======
+file5 line 1
+>>>>>>> cf413b6f2694e72e3f19b75b493b6f875a764fa3
